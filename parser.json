@@ -1,8 +1,7 @@
 {
+  "url": "https://github.com/ribru17/tree-sitter-jjdescription",
   "semver": true,
-  "min_version": "v1.0.3",
-  "max_version": null,
-  "lang": "jjdescription",
+  "parser_version": "v1.0.3",
   "location": null,
-  "url": "https://github.com/ribru17/tree-sitter-jjdescription"
+  "lang": "jjdescription"
 }
